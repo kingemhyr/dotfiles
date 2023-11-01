@@ -1,0 +1,7 @@
+odin
+paru
+spotify
+thorium-browser-bin
+ttf-google-fonts-git
+webcord
+wlsunset
