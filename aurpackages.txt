@@ -1,7 +1,15 @@
-odin
+gf2-git
+glfw-git
+kilo-git
+odin-git
+odinls
+oldschool-pc-fonts
 paru
 spotify
 thorium-browser-bin
 ttf-google-fonts-git
+ventoy-bin
+vlang-bin
 webcord
 wlsunset
+woeusb

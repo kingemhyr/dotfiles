@@ -1,5 +1,7 @@
-export EDITOR=nvim
+export EDITOR=helix
 export QT_QPA_PLATFORM=wayland
+
+alias hx helix
 
 set fish_greeting
 set RUSTC_WRAPPER sccache
