@@ -1,0 +1,25 @@
+theme = 'emhyr'
+
+[editor]
+scrolloff   = 8
+shell       = ['bash', '-c']
+line-number = 'relative'
+color-modes = true
+auto-pairs  = false
+true-color  = true
+gutters     = []
+
+[editor.statusline]
+left  = ['file-name', 'file-modification-indicator', 'spinner']
+right = ['diagnostics', 'selections', 'position']
+
+[editor.soft-wrap]
+enable = false
+wrap-indicator = ''
+
+[editor.cursor-shape]
+insert = 'bar'
+select = 'hidden'
+
+[editor.smart-tab]
+enable = false

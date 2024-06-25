@@ -1,0 +1,15 @@
+'string'      = 'green'
+'keyword'     = 'magenta'
+'operator'    = 'magenta'
+'punctuation' = 'magenta'
+'comment'     = 'gray'
+
+'ui.selection'         = { modifiers = ['reversed'] }
+'ui.statusline'        = { bg = 'black' }
+'ui.bufferline.active' = { bg = 'magenta' }
+'ui.menu.selected'     = { bg = 'magenta' }
+
+'error'      = 'red'
+'warning'    = 'yellow'
+'info'       = 'green'
+'diagnostic' = { underline = { style = 'line' }}

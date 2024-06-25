@@ -1,0 +1,19 @@
+
+[[language]]
+name = "cpp"
+indent = { tab-width = 4, unit = "\t" }
+file-types = ["c", "h", "cpp", "hpp"]
+#language-servers = []
+
+[[language]]
+name = "c"
+indent = { tab-width = 4, unit = "\t" }
+#file-types = ["c", "h"]
+
+[[language]]
+name = "javascript"
+indent = { tab-width = 4, unit = "\t" }
+
+[[language]]
+name = "html"
+indent = { tab-width = 4, unit = "\t" }
